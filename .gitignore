@@ -1,0 +1,4 @@
+.vscode/
+__pycache__/
+cifar10/
+data.pt
